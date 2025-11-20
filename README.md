@@ -99,4 +99,4 @@ go get github.com/chriscraws/sol/go/watch
 
 ## License
 
-[MIT](./LICENSE) (or specify your license here)
+[MIT](./LICENSE)
