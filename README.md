@@ -23,7 +23,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/chriscraws/sol/go/watch"
+	"github.com/chriscraws/watch"
 )
 
 type myNode struct {
@@ -94,7 +94,7 @@ go test
 ## Installation
 
 ```sh
-go get github.com/chriscraws/sol/go/watch
+go get github.com/chriscraws/watch
 ```
 
 ## License
